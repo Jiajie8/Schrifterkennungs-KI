@@ -8,8 +8,7 @@ Erkennt handgeschriebene Buchstaben mit einem CNN-Modell und einer GUI.
 
 1. Python 3.10+ installieren  
 2. Repository klonen
-3.Abhängigkeiten installieren:
-  pip install numpy tensorflow pillow matplotlib
+3. Abhängigkeiten installieren: pip install numpy tensorflow pillow matplotlib
 
 ## Nutzung
 GUI starten
