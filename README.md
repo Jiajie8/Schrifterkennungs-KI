@@ -1,4 +1,4 @@
-# Schrifterkunnungs-KI
+# Schrifterkennungs-KI
 
 Erkennt handgeschriebene Buchstaben mit einem CNN-Modell und einer GUI.
 
